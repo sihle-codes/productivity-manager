@@ -260,11 +260,6 @@ Please keep pull requests focused — one feature or fix per PR.
 
 This project is licensed under the terms found in `env/LICENSE.txt`. See that file for full details.
 
-## Inspiration & Credits
-
-This project was originally built by following the **Task Manager** tutorial series by [@codewithjoshofficial](https://www.youtube.com/@codewithjoshofficial) on YouTube. It served as the foundation for learning Flask, SQLAlchemy, and Jinja2 templating.
-
-From that starting point, the project is being extended and refactored into a more fully featured productivity tool — with a migration to FastAPI, PostgreSQL, and a redesigned UI.
 
 Big thanks to Josh for the clear and beginner-friendly walkthrough!
 
